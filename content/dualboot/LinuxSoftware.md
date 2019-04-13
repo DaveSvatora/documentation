@@ -245,7 +245,7 @@ Git should be installed by default
 
 Generate key
 ```sh
-ssh-keygen -t ed25519 -C "davesvatora@gmail.com"
+ssh-keygen -t ed25519 -C <email>
 ```
 
 Copy public key to gitlab.com
@@ -257,7 +257,7 @@ Create a development directory and clone a project
 ```sh
 mkdir dev
 cd dev
-git clone git@gitlab.com:svatteam44/kidbank.git
+git clone git@github.com:DaveSvatora/documentation.git
 ```
 
 ## Runner
