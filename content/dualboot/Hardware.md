@@ -5,4 +5,4 @@ draft: false
 ---
 
 
-Under construction
+![Computer](/images/pcgreen.jpg)
