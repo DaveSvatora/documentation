@@ -138,6 +138,8 @@ sudo apt install default-jdk
 javac -version
 ```
 
+---
+
 ### Gradle
 
 [Guide](https://gradle.org/install/)
@@ -167,6 +169,8 @@ export PATH=$PATH:$GRADLE
 gradle
 ```
 
+---
+
 ### NVM (Nodejs and NPM)
 
 [Guide](https://github.com/creationix/nvm#installation-and-update)
@@ -191,8 +195,9 @@ nvm install --lts
 node -v
 npm -v
 ```
+---
 
-## Setup Git
+### Setup Git
 
 Git should be installed by default
 
@@ -214,9 +219,10 @@ mkdir dev
 cd dev
 git clone git@github.com:DaveSvatora/documentation.git
 ```
+---
 
-## Runner
-## Draw.io
+### Runner
+### Draw.io
 
 ---
 
