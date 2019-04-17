@@ -2,11 +2,12 @@
 title: "Mini ITX"
 date: 2019-04-06T13:09:08-05:00
 draft: false
+tags: ["Ryzen", "itx", "linux", "custom", "dualboot"]
 ---
 > It started off with just upgrading the i3 processor...
 ![PC Green](/images/pcgreen.jpg)
 
-...and turned into a bad a$$ custom built machine. My first debate was to buy a 3 year old i7 for ~$300 or get a fairly new `Ryzen 5` for half the cost. I've been an AMD fan for years but didn't have good experiences with bulldozer or the Ryzen 5 2400G (Didn't play well with Linux). After looking at a lot of reviews, benchmarks and youtubes, I landed on the [Ryzen 5 2600](https://www.amd.com/en/products/cpu/amd-ryzen-5-2600)
+...and turned into a bad a$$ custom built machine you can't get anywhere. My first debate was to buy a 3 year old i7 for ~$300 or get a fairly new `Ryzen 5` with 6 cores and 12 threads for half the cost. I've been an AMD fan for years but didn't have good experiences with bulldozer or the Ryzen 5 2400G (Didn't play well with Linux). After looking at a lot of reviews, benchmarks and youtubes, I landed on the [Ryzen 5 2600](https://www.amd.com/en/products/cpu/amd-ryzen-5-2600)
 
 Picking out a new motherboard was next on the list, so I started looking at X470 and B450 ITX boards. 
 
