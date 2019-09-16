@@ -84,5 +84,3 @@ renders as
 renders as
 
 {{< youtube w7Ft2ymGmfc >}}
-
-{{%/* /expand*/%}}
