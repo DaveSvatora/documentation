@@ -10,3 +10,7 @@ I got a `Raspberry Pi 4` recently to play around with on some home projects. I a
 ## Choosing an OS
 
 My first choice is to pick an OS. There aren't many available **yet** for PI4 so I'm starting with the officially supported [Raspbian Buster Lite](https://www.raspberrypi.org/downloads/raspbian/) distro. I'm also going to try to install the `Mate Desktop GUI` on top of Raspbian. [This guide](https://www.raspberrypi.org/forums/viewtopic.php?t=133691) talks about the steps you need to take to make it all work together.
+
+### First Try
+
+I got the PI4 connected, booted up, and all was going well...then I changed my password. Little did I know that changing the keyboard to US would end up bricking my OS. Because I used `special characters` in my password I got stuck on the terminal login with no way to get past it...time to reload the OS...fail #1
