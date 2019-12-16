@@ -142,3 +142,9 @@ Replace `<user>` with your ubuntu user and `<ExternalDrive>` with the name of yo
 {{% notice info %}}
 External hard drives can only be accessed by users with root access or mounted to the users directory. Ex: user1 cannot access an external samba share mounted to `/media/user2/drive`
 {{% /notice %}}
+
+### Editing fstab
+
+{{% notice warning %}}
+Danger, please know what your doing before proceeding...see this [guide](https://help.ubuntu.com/community/Fstab#Editing_fstab)
+{{% /notice %}}
