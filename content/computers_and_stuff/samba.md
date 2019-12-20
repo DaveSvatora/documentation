@@ -148,3 +148,9 @@ External hard drives can only be accessed by users with root access or mounted t
 {{% notice warning %}}
 Danger, please know what your doing before proceeding...see this [guide](https://help.ubuntu.com/community/Fstab#Editing_fstab)
 {{% /notice %}}
+
+For me setting the permissions and ntfs-3g options auto mounted my external hard drive how I wanted.
+
+```
+UUID=FAEA8385EA833D3F   /media/<user>/Seagate\040Expansion\040Drive     ntfs-3g auto,users,uid=root,gid=smbgroup,locale=en_US.UTF-8     0       0
+```
