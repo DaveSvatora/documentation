@@ -1,0 +1,34 @@
+site_name: Hello Devs
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: light blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: images/favicon.png
+  favicon: images/favicon.png
+  custom_dir: overrides
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js

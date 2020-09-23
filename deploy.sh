@@ -1,16 +1,16 @@
 #!/bin/bash
 echo "Building and Deploying Site"
-cd ~/Documents/documentation
+cd ~/dev/documentation
 echo "Removing public folder"
-rm -rf public
+rm -rf site
 echo "Generating site"
-hugo
+docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 echo "Removing existing git content"
-rm -rf ~/Documents/DaveSvatora.github.io/*
+rm -rf ~/dev/DaveSvatora.github.io/*
 echo "Copying site"
-cp -r ~/Documents/documentation/public/. ~/Documents/DaveSvatora.github.io/
+cp -r ~/dev/documentation/site/. ~/dev/DaveSvatora.github.io/
 echo "CD to git pages branch"
-cd ~/Documents/DaveSvatora.github.io/
+cd ~/dev/DaveSvatora.github.io/
 echo "Git add"
 git add .
 echo "Git commit"
