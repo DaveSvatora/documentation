@@ -1,8 +1,6 @@
 #!/bin/bash
 echo "Building and Deploying Site"
 cd ~/dev/documentation
-echo "Removing public folder"
-rm -rf site
 echo "Generating site"
 docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 echo "Removing existing git content"
