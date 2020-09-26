@@ -10,41 +10,39 @@ I've experimented with several `diet` options in the last few years. One of my m
 
 During my journey to better health and fitness I ran across this video discussing `Intermittent Fasting`.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U2U5KLXg6Tk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Nutrition](https://img.youtube.com/vi/U2U5KLXg6Tk/0.jpg)](https://www.youtube.com/watch?v=U2U5KLXg6Tk "Nutrition 101")
 
 After seeing this I immediately began trying it and haven't looked back since. Everything about it just *makes sense* and is the exact `simplistic` diet that I was looking for. Since adopting intermittent fasting I've dropped an additional 20+ pounds and I can really notice a difference in body fat. I can't say enough good things about making this your daily lifestyle and highly recommend adopting it.
 
 ---
 
-## What to eat...
+=== "What to eat..."
 
-| **Nuts** | **Fruit** | **Vegetables** | **Legumes/Rice** | **Meats** |
-|:--|:--|:--|:--|:--|
-| Pistachios | Apples | Broccoli | Rice | Burgers |
-| Almonds | Bananas | Carrots | Black Beans | Steak |
-| Walnuts | Blueberries | Celery | Black Eyed Peas | Wild Salmon |
-| Pecans | Raspberries | Cucumbers | Kidney Beans | Pork |
-| Brazil Nuts | Cherries | Zucchini | Lima Beans | Chicken |
-| Cashews | Oranges | Cauliflower | Lentils | Eggs |
-| Macadamia Nuts | Melons | Asparagus | Garbonzo Beans |  |
-| Hazelnuts | Strawberries | Brussels Sprouts | Chickpeas |  |
-| Peanuts | Grapefruit | Spinach | Peas |  |
-|  | Pineapple | Garlic | Soy Beans |  |
-|  | Avocado | Kale |  |  |
-|  | Pomegranate | Green Peas |  |  |
-|  | Mango | Red Cabbage |  |  |
+    | Nuts | Fruit | Vegetables | Legumes/Rice | Meats |
+    |:--|:--|:--|:--|:--|
+    | Pistachios | Apples | Broccoli | Rice | Burgers |
+    | Almonds | Bananas | Carrots | Black Beans | Steak |
+    | Walnuts | Blueberries | Celery | Black Eyed Peas | Wild Salmon |
+    | Pecans | Raspberries | Cucumbers | Kidney Beans | Pork |
+    | Brazil Nuts | Cherries | Zucchini | Lima Beans | Chicken |
+    | Cashews | Oranges | Cauliflower | Lentils | Eggs |
+    | Macadamia Nuts | Melons | Asparagus | Garbonzo Beans |  |
+    | Hazelnuts | Strawberries | Brussels Sprouts | Chickpeas |  |
+    | Peanuts | Grapefruit | Spinach | Peas |  |
+    |  | Pineapple | Garlic | Soy Beans |  |
+    |  | Avocado | Kale |  |  |
+    |  | Pomegranate | Green Peas |  |  |
+    |  | Mango | Red Cabbage |  |  |
 
----
+=== "What to Avoid..."
 
-## What to Avoid...
+    The main thing to understand is that the 2 main ingredients in highly processed foods are Salt(sodium) and Sugar. These ingredients are used because 1) they preserve food so their shelf life is longer, and 2) They make food taste better. Get to know how to read nutrition labels and try to choose foods that are low in both salt and sugar.
 
-The main thing to understand is that the 2 main ingredients in highly processed foods are Salt(sodium) and Sugar. These ingredients are used because 1) they preserve food so their shelf life is longer, and 2) They make food taste better. Get to know how to read nutrition labels and try to choose foods that are low in both salt and sugar.
-
-- **Salt and Sugar**
-- Processed Food
-    - Canned Everything
-    - Crackers
-    - Chips
-    - Spaghetti Sauce
-    - Candy
-- Cheese
+    - **Salt and Sugar**
+    - Processed Food
+        - Canned Everything
+        - Crackers
+        - Chips
+        - Spaghetti Sauce
+        - Candy
+    - Cheese

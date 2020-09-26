@@ -2,7 +2,7 @@
 echo "Building and Deploying Site"
 cd ~/dev/documentation
 echo "Generating site"
-docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
+docker run --rm -it -v ${PWD}:/docs custom/mkdocs-material build
 echo "Removing existing git content"
 rm -rf ~/dev/DaveSvatora.github.io/*
 echo "Copying site"

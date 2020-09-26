@@ -14,8 +14,6 @@ theme:
   logo: images/favicon.png
   favicon: images/favicon.png
   custom_dir: overrides
-  features:
-    -instant
   icon: 
     repo: fontawesome/solid/beer
 
@@ -23,6 +21,7 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - def_list
   - footnotes
   - pymdownx.details
   - pymdownx.emoji:
@@ -34,7 +33,15 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.snippets
   - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+
+plugins:
+  - git-revision-date-localized
+  - search
+  - awesome-pages
