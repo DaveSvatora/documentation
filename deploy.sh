@@ -1,6 +1,9 @@
 #!/bin/bash
 echo "Building and Deploying Site"
 cd ~/dev/documentation
+echo "Pull :latest / Build custom docker image"
+docker pull squidfunk/mkdocs-material
+docker build -t custom/mkdocs-material --force-rm .
 echo "Generating site"
 docker run --rm -it -v ${PWD}:/docs custom/mkdocs-material build
 echo "Removing existing git content"

@@ -2,6 +2,11 @@
 
 I have a Dell XPS 13 7390 and the arrow keys are super close to the page up/down buttons. That makes it annoying when trying to use arrows when coding/typing. To resolve this I'm going to remove the page up/down keys and turn those into left and right (the arrow keys they are closest to).
 
+This is what they look like:
+
+++page-up arrow-up page-down++
+++arrow-left arrow-down arrow-right++
+
 ## Finding keycodes/actions
 
 `xev` will log the keycodes and actions for each key press in the terminal, for me these were:
