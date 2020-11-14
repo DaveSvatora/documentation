@@ -9,5 +9,8 @@ Peek is useful for doing screen recordings and creating animated gifs from them.
 ```sh
 sudo add-apt-repository ppa:peek-developers/stable
 sudo apt update
-sudo apt install peek
 ```
+
+then install and make animated .gifs like this
+
+![peek](../images/Peek.gif)
